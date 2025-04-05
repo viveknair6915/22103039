@@ -103,33 +103,3 @@ Example:
 const response = await fetch('http://localhost:4000/api/top-users');
 const data = await response.json();
 ```
-
----
-
-##  Testing
-
-Basic component and UI testing can be done with:
-- React Testing Library
-- Jest (already included with Create React App)
-
----
-
-##  Production Build
-
-To create a production build:
-
-```bash
-npm run build
-```
-
-Then deploy the `/build` folder to your preferred static hosting provider (Netlify, Vercel, S3, etc.).
-
----
-
-##  TODO / Future Enhancements
-
--  Integrate with live backend endpoints
--  Use WebSockets or Server-Sent Events for live feed
--  Add post comments and reactions
--  Add user analytics dashboard
--  Dark mode toggle
