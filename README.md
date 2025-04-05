@@ -56,8 +56,8 @@ social-media-analytics-frontend/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/social-media-analytics-frontend.git
-cd social-media-analytics-frontend
+git clone [https://github.com/your-username/social-media-analytics-frontend.git](https://github.com/viveknair6915/22103039.git)
+cd social-med-analytics
 ```
 
 ### 2. Install Dependencies
