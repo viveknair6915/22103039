@@ -47,6 +47,7 @@ social-media-analytics-frontend/
 ---
 
 ##  Screenshots
+![Alt Text](social-med-analytics/Screenshots/Screenshot 2025-04-05 133606.png)
 
 ---
 
